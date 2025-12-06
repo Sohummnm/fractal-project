@@ -1,0 +1,19 @@
+# Maven
+target/
+*.log
+
+# IntelliJ / Eclipse
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+
+# JavaFX runtime artifacts
+out/
+
+# Sensitive files
+*.env
